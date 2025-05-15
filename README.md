@@ -151,4 +151,5 @@ variable "yandex_token" {}
 variable "ssh_public_key" {}
 variable "ssh_user" {}
 ```
-
+##
+![Screenshot](https://github.com/user-attachments/assets/6aa8ed00-4eac-40c5-a7d7-1751d1300377)
