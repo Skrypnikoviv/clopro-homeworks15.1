@@ -1,8 +1,6 @@
 # Домашнее задание к занятию «Организация сети» - Скрыпников Илья 
 
 # Задание 1. Yandex Cloud
-```markdown
-# Terraform Configuration for Yandex Cloud VPC Setup
 
 ## main.tf
 
